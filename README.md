@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon SQL bug where the `>` operator is used instead of `>=`, resulting in the exclusion of edge-case salary values from a query result. The `bug.sql` file shows the erroneous query, and `bugSolution.sql` provides the corrected version.
